@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.jasfruitsandvegetables.in/sitemap.xml
